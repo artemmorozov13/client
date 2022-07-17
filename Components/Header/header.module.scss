@@ -1,0 +1,13 @@
+@import "/styles/style.scss";
+
+.header {
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: $colorBlack;
+  font-family: $fontStyle;
+  font-size: $fsExtralarge;
+  font-weight: $fwBold;
+  color: $colorWhite;
+}
